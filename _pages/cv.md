@@ -11,7 +11,7 @@ redirect_from:
 
 Academic Position
 ------
-* Interdisciplinary Postdoctoral Fellow, Field Museum, 2018-
+* Interdisciplinary Postdoctoral Fellow, Field Museum, 2018 - present
 
 Education
 ------
@@ -29,10 +29,16 @@ Publications
 6. Kou X., Li, Q., Liu, S., 2011. Quantifying species’ range shifts in relation to climate change: A case  study of Abies spp. in China. PLoS ONE. 6(8): e23115
 7. Kou X., Li, Q., Liu, S., 2011. High-resolution bioclimatic dataset derived from future climate  projections for plant species distribution modeling. Ecological Informatics. 6: 196-204
 
+**Manuscripts under review** (available upon request)
+1. Li, Q., Sun, H., Boufford, D.E., Bartholomew, B., Fritsch, P.R., Chen, J., Deng, T., Ree, R.H. Grade
+of Membership models reveal geographical and environmental correlates of floristic structure in a temperate biodiversity hotspot.
+2. Li, Q., Angert, A.L. The diversification and evolution of niche breadth across spatial scales in western North American monkeyflowers.
+3. Li, Q., Kou, X. WiBB: an integrated method quantifying relative importance of predicting variables.
+
 
 Conferences and Workshops
 ------
-- The Grainger Bioinformatics Center Symposium of Field Museum (Talk), Chicago, US, Nov. 2020
+- The Grainger Bioinformatics Center Symposium of Field Museum (Talk, online), US, Nov. 2020
 - The Biodiversity Symposium at Chengdu Institute of Biology (Talk, online), China, Sept. 2020
 - The IBS Humboldt Meeting (Talk), Quito, Ecuador, Aug. 2019
 - The 9th Biennial Conference of IBS (Poster), Malaga, Spain, Jan. 2019
@@ -44,17 +50,30 @@ Conferences and Workshops
 - The 96th Annual Meeting of ESA (Talk), Austin, TX, USA, Aug. 2011
 - The 95th Annual Meeting of ESA (Poster), Pittsburgh, PA, USA, Aug. 2010
 - The 23rd International Congress of Conservation Biology by SCB, Beijing, China, Jul. 2009
-- The 5th International Symposium on Modern Ecology by ISOMES, Lanzhou, China, Jun. 2009 
+- The 5th International Symposium on Modern Ecology by ISOMES, Lanzhou, China, Jun. 2009
 - Workshop in Fuzzy logic in biogeography, Malaga, Spain, Jan. 2019
 - Workshop in Model testing in historical biogeography, Bayreuth, Germany, Jan. 2015
 - Workshop in Species Distribution Modeling, Vancouver, CA, Apr. 2014
 - Workshop in Applied Phylogenetics, Bodega Bay, USA, Mar. 2014
 
+Awards and Honors
+------
+	- Postdoctoral fellowship, Grainger Bioinformatics Center, Field Museum, 2020-present
+	- Negaunee postdoctoral fellowship, Field Museum, 2018-2019
+	- Travel award for the International Biogeography Society Biennial Conference, 2019
+	- Travel award for the XIX International Botanical Congress, 2017
+	- Travel award for the International Biogeography Society Biennial Conference, 2015
+	- Faculty of Science Graduate Award & International Tuition Award, UBC, 2012-2016
+	- Excellent Graduate Student Award, Beijing City, 2008
+	- Academic Scholarship, Beijing Normal University, 2005, 2006, 2007
+	- Outstanding Student Scholarship, National Institute of Biological Sciences (Beijing) Education Fund, 2006
+	- Excellent Student Award, Beijing Normal University, 2005, 2006
+
 
 Teaching Experiences
 ------
 - Teaching Assistant, Fundamentals of Ecology, University of British Columbia, Spring 2016, Fall 2016, Spring 2017, Fall 2017
-- Teaching Assistant, Fundamentals of Evolution, University of British Columbia, Fall 2015 
+- Teaching Assistant, Fundamentals of Evolution, University of British Columbia, Fall 2015
 - Teaching Assistant, Lecture series of Biology, Beijing Normal University, Fall 2009, Spring 2010
 - Teaching Assistant, Landscape Ecology, Beijing Normal University, Fall 2008
 
