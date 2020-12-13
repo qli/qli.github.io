@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "gh-pages" # "master", "main", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -83,8 +83,8 @@ author:
   name             : "Qin Li"
   avatar           : "profile_qinli.png"
   bio              : "Postdoctoral Researcher"
-  location         : "Chicago, IL, USA"
-  employer         : "The Field Museum"
+  location         : "The Field Museum"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=chGL78AAAAAJ&hl=en&authuser=1"
   email            : "qli(at)fieldmuseum(dot)org"
