@@ -58,16 +58,16 @@ Conferences and Workshops
 
 Awards and Honors
 ------
-	- Postdoctoral fellowship, Grainger Bioinformatics Center, Field Museum, 2020-present
-	- Negaunee postdoctoral fellowship, Field Museum, 2018-2019
-	- Travel award for the International Biogeography Society Biennial Conference, 2019
-	- Travel award for the XIX International Botanical Congress, 2017
-	- Travel award for the International Biogeography Society Biennial Conference, 2015
-	- Faculty of Science Graduate Award & International Tuition Award, UBC, 2012-2016
-	- Excellent Graduate Student Award, Beijing City, 2008
-	- Academic Scholarship, Beijing Normal University, 2005, 2006, 2007
-	- Outstanding Student Scholarship, National Institute of Biological Sciences (Beijing) Education Fund, 2006
-	- Excellent Student Award, Beijing Normal University, 2005, 2006
+- Postdoctoral fellowship, Grainger Bioinformatics Center, Field Museum, 2020-present
+- Negaunee postdoctoral fellowship, Field Museum, 2018-2019
+- Travel award for the International Biogeography Society Biennial Conference, 2019
+- Travel award for the XIX International Botanical Congress, 2017
+- Travel award for the International Biogeography Society Biennial Conference, 2015
+- Faculty of Science Graduate Award & International Tuition Award, UBC, 2012-2016
+- Excellent Graduate Student Award, Beijing City, 2008
+- Academic Scholarship, Beijing Normal University, 2005, 2006, 2007
+- Outstanding Student Scholarship, National Institute of Biological Sciences (Beijing) Education Fund, 2006
+- Excellent Student Award, Beijing Normal University, 2005, 2006
 
 
 Teaching Experiences
