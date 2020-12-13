@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=chGL78AAAAAJ&hl=en&authuser=1)
 
 
-Publications
+Peer-reviewed Publications
 ------
 1. Li, Q., Grossenbacher D., Angert, A.L., 2018. The effect of range overlap on ecological niche divergence depends on spatial scale in monkeyflowers. Evolution, 72(10): 2100-2113.
 2. Li, Q., Kou, X., Beierkuhnlein, C., Liu, S., Ge, J., 2018. Global patterns of non‐analogous climates in the past and future derived from thermal and hydraulic factors. Global Change Biology, 24(6): 2463-2475.
