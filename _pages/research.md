@@ -42,5 +42,5 @@ Global change and species responses
 * Range limits and niche dynamics
 * Changes of biodiversity patterns
 
-Sample publications: [Li et al. 2018 GCB](https://doi.org/10.1111/gcb.14104), [Kou et al. 2014 PLOS One](https://doi.org/10.1371/journal.pone.0098643), [Kou et al. 2011 PLOS One](https://doi.org/10.1371/journal.pone.0023115)
+Sample publications: [*Li et al. 2018 GCB*](https://doi.org/10.1111/gcb.14104), [*Kou et al. 2014 PLOS One*](https://doi.org/10.1371/journal.pone.0098643), [*Kou et al. 2011 PLOS One*](https://doi.org/10.1371/journal.pone.0023115)
 
