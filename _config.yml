@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qin Li"
+title                    : "Qin Li - Home"
 title_separator          : "-"
 name                     : &name "Qin Li"
 description              : &description "description"
-url                      : https://qli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://qli.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qli/qli.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

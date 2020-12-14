@@ -16,7 +16,7 @@ Ecological speciation and niche evolution
 * Geography of speciation
 * Local adaptation and population genomics
 
-Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13567), Li et al. (under review)
+Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13567), *Li et al.* (under review)
 
 
 Species coexistence and community assembly
@@ -33,6 +33,8 @@ Biodiversity patterns and biogeographical regionalization
 * Transition zone
 * Environmental correlates
 * Taxonomic composition
+
+Sample publications: *Li et al.* (under review)
 
 
 Global change and species responses
