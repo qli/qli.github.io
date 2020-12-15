@@ -3,14 +3,14 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
 Ecological speciation and niche evolution
 ------
+![](research_fig/fig_niche_range.png){: style="float: left"}
+
 * Niche divergence and evolution
 * Range evolution
 * Geography of speciation
