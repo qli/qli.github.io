@@ -9,7 +9,8 @@ author_profile: true
 
 Ecological speciation and niche evolution
 ------
-![](research_fig/fig_niche_range.png){: style="float: left"}
+![](research_fig/fig_niche_range.png){: width: 200 style="float: left"}
+
 
 * Niche divergence and evolution
 * Range evolution
@@ -17,6 +18,7 @@ Ecological speciation and niche evolution
 * Local adaptation and population genomics
 
 Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13567), *Li et al.* (under review)
+
 
 
 Species coexistence and community assembly
