@@ -8,7 +8,7 @@ collection: galleries
 
 Field Trips at the Hengduan Mountains Biodiversity Hotspot
 
-![Mt. Gongga - the highest peak at Hengduan Mountains](./images/HD-MtGongga.jpg)
+![Mt. Gongga - the highest peak at Hengduan Mountains](images/g_HD-MtGongga.jpg)
 
 
-![Rhododendron blooming at Shangri-La](./images/HD-Shangri-La.jpg)
+![Rhododendron blooming at Shangri-La](images/g_HD-Shangri-La.jpg)

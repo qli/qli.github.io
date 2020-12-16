@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qin Li - Home"
+title                    : "Qin Li | Home"
 title_separator          : "-"
 name                     : &name "Qin Li"
-description              : &description "description"
-url                      : "https://qli.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Postdoc"
+url                      : https://qli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qli/qli.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "李 勤  Qin Li"
+  name             : "李勤 | Qin Li"
   avatar           : "profile_qinli.png"
   bio              : "Postdoctoral Researcher"
   location         : "The Field Museum"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : "http://orcid.org/0000-0001-9976-8236"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
