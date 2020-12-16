@@ -17,10 +17,10 @@ does not work
 
 -->
 
-## Ecological speciation and niche evolution
 
 ![](/images/fig_niche.png){: width="300px" .align-left}
 {:style="clear: left"}
+## Ecological speciation and niche evolution
 
 - Niche divergence and evolution
 - Range evolution
@@ -32,10 +32,9 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 ---
 
 
-## Species coexistence and community assembly
-
 ![](/images/fig_spAsso.png){: width="300px" .align-left}
 {:style="clear: left"}
+## Species coexistence and community assembly
 
 - Co-occurrence patterns over time and space
 - Mechanisms of coexistence and assembly
@@ -45,10 +44,9 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 
 ---
 
-## Biodiversity patterns and biogeographical regionalization
-
 ![](/images/fig_GoM.png){: width="300px" .align-left}
 {:style="clear: left"}
+## Biodiversity patterns and biogeographical regionalization
 
 - Floristic structure
 - Transition zone
@@ -61,10 +59,9 @@ Sample publications: *Li et al.* (under review)
 
 ---
 
-## Global change and species responses
-
 ![](/images/fig_NAC.png){: width="300px" .align-left}
 {:style="clear: left"}
+## Global change and species responses
 
 - Non-analogous climate patterns
 - Range shifts under climate change
