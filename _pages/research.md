@@ -5,12 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
+<!--![](./images/fig_nicheRange.png){: width=30% style="float: left"}
+does not work
+
+![left-aligned-image](/images/fig_nicheRange.png){: .align-left}
+-->
 
 ## Ecological speciation and niche evolution
 
-<!--![](./images/fig_nicheRange.png){: width=30% style="float: left"}
-does not work-->
-<img style="float: left" width="250" src="/images/fig_nicheRange.png">
+<img style="float: left" width="300" src="/images/fig_nicheRange.png">
 - Niche divergence and evolution
 - Range evolution
 - Geography of speciation
@@ -20,7 +23,7 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 
 ---
 
-![image alt <](/images/fig_nicheRange.png)some keypoints
+![image alt <](/images/fig_nicheRange.png)
 - Niche divergence and evolution
 - Range evolution
 - Geography of speciation
@@ -29,15 +32,6 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13567), *Li et al.* (under review)
 
 ---
-
-![left-aligned-image](/images/fig_nicheRange.png){: .align-left}
-- Niche divergence and evolution
-- Range evolution
-- Geography of speciation
-- Local adaptation and population genomics
-
-Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13567), *Li et al.* (under review)
-
 
 
 ## Species coexistence and community assembly
@@ -68,7 +62,7 @@ Sample publications: *Li et al.* (under review)
 
 ## Global change and species responses
 
-<img style="float: left" width="250" src="/images/fig_NAC.png">
+![limage alt <](/images/fig_nicheRange.png)
 
 - Non-analogous climate patterns
 - Range shifts under climate change
