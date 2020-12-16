@@ -20,7 +20,7 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 
 ---
 
-![image alt <](images/fig_nicheRange.png)some keypoints
+![image alt <](/images/fig_nicheRange.png)some keypoints
 - Niche divergence and evolution
 - Range evolution
 - Geography of speciation
@@ -30,7 +30,7 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 
 ---
 
-![left-aligned-image](images/fig_nicheRange.png){: .align-left}
+![left-aligned-image](/images/fig_nicheRange.png){: .align-left}
 - Niche divergence and evolution
 - Range evolution
 - Geography of speciation
