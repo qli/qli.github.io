@@ -8,24 +8,41 @@ author_profile: true
 
 ## Ecological speciation and niche evolution
 
-<!--![](./images/fig_niche_range.png){: width=30% style="float: left"}
+<!--![](./images/fig_nicheRange.png){: width=30% style="float: left"}
 does not work-->
-<img align="left" width="250" src="/images/fig_nicheRange.png">
-
+<img style="float: left" width="250" src="/images/fig_nicheRange.png">
 - Niche divergence and evolution
 - Range evolution
 - Geography of speciation
 - Local adaptation and population genomics
 
+Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13567), *Li et al.* (under review)
+
+---
+
+![image alt <](/fig_nicheRange.png)some keypoints
+- Niche divergence and evolution
+- Range evolution
+- Geography of speciation
+- Local adaptation and population genomics
+
+Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13567), *Li et al.* (under review)
+
+---
+
+![left-aligned-image](/fig_nicheRange.png){: .align-left}
+- Niche divergence and evolution
+- Range evolution
+- Geography of speciation
+- Local adaptation and population genomics
 
 Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13567), *Li et al.* (under review)
 
 
----
 
 ## Species coexistence and community assembly
 
-<img align="left" width="250" src="/images/fig_speciesAssociation.png">
+<img style="float: left" width="250" src="/images/fig_speciesAssociation.png">
 
 - Co-occurrence patterns over time and space
 - Mechanisms of coexistence and assembly
@@ -36,7 +53,7 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 ---
 
 ## Biodiversity patterns and biogeographical regionalization
-<img align="left" width="250" src="/images/fig_GoM.png">
+<img style="float: left" width="250" src="/images/fig_GoM.png">
 
 - Floristic structure
 - Transition zone
@@ -51,7 +68,7 @@ Sample publications: *Li et al.* (under review)
 
 ## Global change and species responses
 
-<img align="left" width="250" src="/images/fig_NAC.png">
+<img style="float: left" width="250" src="/images/fig_NAC.png">
 
 - Non-analogous climate patterns
 - Range shifts under climate change
