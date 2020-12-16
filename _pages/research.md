@@ -10,7 +10,7 @@ author_profile: true
 
 <!--![](./images/fig_niche_range.png){: width=30% style="float: left"}
 does not work-->
-<img align="right" width="250" src="/images/fig_nicheRange.png">
+<img align="left" width="250" src="/images/fig_nicheRange.png">
 
 - Niche divergence and evolution
 - Range evolution
@@ -25,7 +25,7 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 
 ## Species coexistence and community assembly
 
-<img align="right" width="250" src="/images/fig_speciesAssociation.png">
+<img align="left" width="250" src="/images/fig_speciesAssociation.png">
 
 - Co-occurrence patterns over time and space
 - Mechanisms of coexistence and assembly
@@ -36,7 +36,7 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 ---
 
 ## Biodiversity patterns and biogeographical regionalization
-<img align="right" width="250" src="/images/fig_GoM.png">
+<img align="left" width="250" src="/images/fig_GoM.png">
 
 - Floristic structure
 - Transition zone
@@ -51,7 +51,7 @@ Sample publications: *Li et al.* (under review)
 
 ## Global change and species responses
 
-<img align="right" width="250" src="/images/fig_NAC.png">
+<img align="left" width="250" src="/images/fig_NAC.png">
 
 - Non-analogous climate patterns
 - Range shifts under climate change
