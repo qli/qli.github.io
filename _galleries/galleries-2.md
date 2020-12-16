@@ -1,6 +1,6 @@
 ---
 title: "Sierra Nevada"
-excerpt: "Field Trips <br/><img src='./images/'>"
+excerpt: "Field Trips <br/><img src='/images/'>"
 collection: galleries
 ---
 
