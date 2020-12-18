@@ -1,6 +1,6 @@
 ---
 title: "Hengduan Mountains"
-excerpt: "Field Trips <br/><img src='/images/photos/HD-MtGongga.jpg' width='500'>"
+excerpt: "<br/><img src='/images/photos/HD-MtGongga.jpg' width='500'>"
 collection: galleries
 ---
 
