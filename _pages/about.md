@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Qin Li - Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from:

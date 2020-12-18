@@ -13,4 +13,4 @@ main:
     url: /galleries/
 
   - title: "Posts"
-    url: /year-archive/
+    url: /posts/
