@@ -13,7 +13,7 @@ Field Trips at the Hengduan Mountains Biodiversity Hotspot in southwestern China
 -->
 
 <p float="left">
-  <img src="/images/photos/HD-MtGongga.jpg" width="400" />
-  <img src="/images/photos/HD-Shangri-La.jpg" width="400" />
+  <img src="/images/photos/HD-MtGongga.jpg" width="500" />
+  <img src="/images/photos/HD-Shangri-La.jpg" width="500" />
 </p>
 
