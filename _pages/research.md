@@ -31,6 +31,7 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 
 
 ![](/images/fig_spAsso.png){: width="300px" style="float:left; padding-right:30px"}
+{: style="clear: both"}
 ### Species coexistence and community assembly
 - Co-occurrence patterns over time and space
 - Mechanisms of coexistence and assembly
@@ -41,9 +42,9 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 ---
 
 ![](/images/fig_GoM.png){: width="300px" style="float:left; padding-right:30px"}
+{: style="clear: both"}
 ### Biodiversity patterns and biogeographical regionalization
-- Floristic structure
-- Transition zone
+- Floristic structure and transition zone
 - Environmental correlates
 - Taxonomic composition
 
@@ -53,6 +54,7 @@ Sample publications: *Li et al.* (under review)
 ---
 
 ![](/images/fig_NAC.png){: width="300px" style="float:left; padding-right:30px"}
+{: style="clear: both"}
 ### Global change and species responses
 - Non-analogous climate patterns
 - Range shifts under climate change
