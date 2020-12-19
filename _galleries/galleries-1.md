@@ -18,11 +18,17 @@ Field Trips at the Hengduan Mountains Biodiversity Hotspot in southwestern China
 
 <div class="container">
     <div style="float:left;width:49%">
-	    <img src="/images/photos/HD-MtGongga.JPG">
+	    <img src="/images/photos/HD-MtGongga.jpg">
 	    <figcaption>Mt. Gongga, the highest peak at Hengduan Mountains</figcaption>
     </div>
     <div style="float:right;width:49%">
-	    <img src="/images/photos/HD-Shangri-La.JPG">
+	    <img src="/images/photos/HD-Shangri-La.jpg">
 	    <figcaption>Rhododendron blooming at Shangri-La</figcaption>
     </div>
 </div>
+
+![alt](/images/photos/HD-MtGongga.jpg){: width="500px" .align-left} | ![alt](/images/photos/HD-Shangri-La.jpg){: width="500px" .align-right}
+// space 1
+// space 2
+// space 3
+![alt](/images/photos/HD-MtGongga.jpg){: width="500px" .align-left} | ![alt](/images/photos/HD-Shangri-La.jpg){: width="500px" .align-right}

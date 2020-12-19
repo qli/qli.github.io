@@ -16,10 +16,7 @@ Field Trips of monkeyflower (*Mimulus*) surveys in western North America, includ
 	    <img src="/images/photos/IMG_3539.JPG">
 	    <figcaption>Cascade</figcaption>
     </div>
-</div>
 
-
-<div class="container">
     <div style="float:left;width:49%">
 	    <img src="/images/photos/IMG_3538.JPG">
 	    <figcaption>Mojave</figcaption>
@@ -29,3 +26,5 @@ Field Trips of monkeyflower (*Mimulus*) surveys in western North America, includ
 	    <figcaption>White water</figcaption>
     </div>
 </div>
+
+
