@@ -1,6 +1,6 @@
 ---
 title: "Hengduan Mountains"
-excerpt: "<br/><img src='/images/photos/HD_Gongga.jpg' width='500'>"
+excerpt: "<br/><img src='/images/photos/HD/HD_1.jpg' width='500'>"
 collection: galleries
 ---
 
@@ -26,6 +26,12 @@ Field Trips at the Hengduan Mountains Biodiversity Hotspot in southwestern China
 -->
 
 
-<img src="/images/photos/HD_Gongga.jpg" width="45%" style="padding-right: 20px"><img src="/images/photos/HD_ShangriLa.jpg" width="45%">
+<img src="/images/photos/HD/HD_1.jpg" width="45%" style="padding-right: 20px"><img src="/images/photos/HD/HD_2.jpg" width="45%">
 
+<img src="/images/photos/HD/HD_3.jpg" width="45%" style="padding-right: 20px"><img src="/images/photos/HD/HD_4.jpg" width="45%">
 
+<img src="/images/photos/HD/HD_5.jpg" width="45%" style="padding-right: 20px"><img src="/images/photos/HD/HD_6.jpg" width="45%">
+
+<img src="/images/photos/HD/HD_7.jpg" width="45%" style="padding-right: 20px"><img src="/images/photos/HD/HD_8.jpg" width="45%">
+
+<img src="/images/photos/HD/HD_9.jpg" width="45%" style="padding-right: 20px"><img src="/images/photos/HD/HD_10.jpg" width="45%">
