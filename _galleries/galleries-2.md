@@ -7,14 +7,7 @@ collection: galleries
 Field Trips of monkeyflower (*Mimulus*) surveys in western North America, including Sierra Nevada, Cascade Range, Mojave desert.
 
 
-<img src="/images/photos/IMG_3537.JPG" width="500" /> | <img src="/images/photos/IMG_3539.JPG" width="500" />
-:-------------------------:|:-------------------------:
-Yosemite  |  Cascade
-
- |
-:-------------------------:|:-------------------------:
-<img src="/images/photos/IMG_3538.JPG" width="500" /> | <img src="/images/photos/IMG_3541.JPG" width="500" />
-Mojave  |  White water
+<img src="/images/photos/IMG_3538.JPG" width="500" />
 
 <div class="container">
     <div style="float:left;width:49%">
@@ -27,4 +20,8 @@ Mojave  |  White water
     </div>
 </div>
 
+Yosemite
 ![](/images/photos/IMG_3537.JPG){width=500px} ![](/images/photos/IMG_3539.JPG){width=500px}
+
+Mojave
+![](/images/photos/IMG_3538.JPG){width=500px} ![](/images/photos/IMG_3541.JPG){width=500px}
