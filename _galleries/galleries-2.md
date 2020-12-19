@@ -1,5 +1,5 @@
 ---
-title: "Monkeyflower survey"
+title: "Sierra Nevada"
 excerpt: "<br/><img src='/images/photos/IMG_3537.JPG' width='500'>"
 collection: galleries
 ---
