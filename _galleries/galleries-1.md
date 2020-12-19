@@ -12,16 +12,5 @@ Field Trips at the Hengduan Mountains Biodiversity Hotspot in southwestern China
 ![Rhododendron blooming at Shangri-La](/images/photos/HD-Shangri-La.jpg)
 -->
 
-<p float="left">
-  <img src="/images/photos/HD-MtGongga.jpg" width="500" />
-  <img src="/images/photos/HD-Shangri-La.jpg" width="500" />
-</p>
 
-<div class="container" style="width: 500px;">
- <div class="theme-table-image col-sm-6">
-   <img src="/images/photos/HD-MtGongga.jpg">
- </div>
- <div class="theme-table-image col-sm-6">
-   <img src="/images/photos/HD-Shangri-La.jpg">
- </div>
-</div>
+![](/images/photos/HD-MtGongga.JPG){: width="500px"} ![](/images/photos/HD-Shangri-La.JPG){: width="500px"}
