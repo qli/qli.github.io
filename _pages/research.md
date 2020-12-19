@@ -31,8 +31,7 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 ---
 
 
-![](/images/fig_spAsso.png){: width="300px" .align-left}
-{:style="clear: left"}
+![](/images/fig_spAsso.png){: width="300px" style="float:left; padding-right:30px"}
 ### Species coexistence and community assembly
 
 - Co-occurrence patterns over time and space
@@ -43,8 +42,7 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 
 ---
 
-![](/images/fig_GoM.png){: width="300px" .align-left}
-{:style="clear: left"}
+![](/images/fig_GoM.png){: width="300px" style="float:left; padding-right:30px"}
 ### Biodiversity patterns and biogeographical regionalization
 
 - Floristic structure
@@ -58,8 +56,7 @@ Sample publications: *Li et al.* (under review)
 
 ---
 
-![](/images/fig_NAC.png){: width="300px" .align-left}
-{:style="clear: left"}
+![](/images/fig_NAC.png){: width="300px" style="float:left; padding-right:30px"}
 ### Global change and species responses
 
 - Non-analogous climate patterns

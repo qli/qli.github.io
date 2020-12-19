@@ -18,6 +18,7 @@ Field Trips of monkeyflower (*Mimulus*) surveys in western North America, includ
     </div>
 </div>
 
+{: style="clear: both"}
 
 <div class="container">
     <div style="float:left;width:49%">
