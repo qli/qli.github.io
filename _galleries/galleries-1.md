@@ -1,6 +1,6 @@
 ---
 title: "Hengduan Mountains"
-excerpt: "<br/><img src='/images/photos/HD-MtGongga.jpg' width='500'>"
+excerpt: "<br/><img src='/images/photos/HD_Gongga.jpg' width='500'>"
 collection: galleries
 ---
 
@@ -18,15 +18,20 @@ Field Trips at the Hengduan Mountains Biodiversity Hotspot in southwestern China
 
 <div class="container">
     <div style="float:left;width:49%">
-	    <img src="/images/photos/HD-MtGongga.jpg">
+	    <img src="/images/photos/HD_Gongga.jpg">
 	    <figcaption>Mt. Gongga, the highest peak at Hengduan Mountains</figcaption>
     </div>
     <div style="float:right;width:49%">
-	    <img src="/images/photos/HD-Shangri-La.jpg">
+	    <img src="/images/photos/HD_ShangriLa.jpg">
 	    <figcaption>Rhododendron blooming at Shangri-La</figcaption>
     </div>
 </div>
 
-![alt](/images/photos/HD-MtGongga.jpg){: width="500px"} | ![alt](/images/photos/HD-Shangri-La.jpg){: width="500px"}
-//
-![alt](/images/photos/HD-MtGongga.jpg){: width="500px"} | ![alt](/images/photos/HD-Shangri-La.jpg){: width="500px"}
+![alt](/images/photos/HD_Gongga.jpg){: width="500"} | ![alt](/images/photos/HD-Shangri-La.jpg){: width="500"}
+
+
+ | |
+|:---:|:---:|
+<img src='/images/photos/HD_Gongga.jpg' width='500'> Mt. Gongga |<img src='/images/photos/HD_ShangriLa.jpg' width='500'>|
+
+
