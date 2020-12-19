@@ -18,7 +18,7 @@ does not work
 -->
 
 
-![](/images/fig_niche.png){: width="250px" style="float:left; padding-right:50px"}
+![](/images/fig_niche.png){: width="250px" style="float:left; padding-right:30px"}
 {:style="clear: left"}
 ### Ecological speciation and niche evolution
 
