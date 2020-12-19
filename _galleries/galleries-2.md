@@ -10,16 +10,22 @@ Field Trips of monkeyflower (*Mimulus*) surveys in western North America, includ
 <div class="container">
     <div style="float:left;width:49%">
 	    <img src="/images/photos/IMG_3537.JPG">
-	    <figcaption>Yosemite</figcaption>
+	    <figcaption>Yosemite</figcaption><center>
     </div>
     <div style="float:right;width:49%">
 	    <img src="/images/photos/IMG_3539.JPG">
-	    <figcaption>Cascade</figcaption>
+	    <figcaption>Cascade</figcaption><center>
     </div>
 </div>
 
-Yosemite
-![](/images/photos/IMG_3537.JPG){: width="500px"} ![](/images/photos/IMG_3539.JPG){: width="500px"}
 
-Mojave
-![](/images/photos/IMG_3538.JPG){: width="500px"} ![](/images/photos/IMG_3541.JPG){: width="500px"}
+<div class="container">
+    <div style="float:left;width:49%">
+	    <img src="/images/photos/IMG_3538.JPG">
+	    <figcaption>Mojave</figcaption><center>
+    </div>
+    <div style="float:right;width:49%">
+	    <img src="/images/photos/IMG_3541.JPG">
+	    <figcaption>White water</figcaption><center>
+    </div>
+</div>
