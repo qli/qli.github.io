@@ -13,14 +13,14 @@ does not work
 ![left-aligned-image](image.jpg){: .align-left}
 ![left-aligned-image](/images/fig_nicheRange.png){: width=30% .align-left}
 {:style="clear: left"}
-![image alt <](/images/fig_niche.png){: width="300px"}
+![image alt <](/images/fig_niche.png){: width="250px"}
 
 -->
 
 
-![](/images/fig_niche.png){: width="300px" .align-left}
+![](/images/fig_niche.png){: width="250px" style="float:left; padding-right:50px"}
 {:style="clear: left"}
-## Ecological speciation and niche evolution
+### Ecological speciation and niche evolution
 
 - Niche divergence and evolution
 - Range evolution
@@ -32,9 +32,9 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 ---
 
 
-![](/images/fig_spAsso.png){: width="300px" .align-left}
+![](/images/fig_spAsso.png){: width="250px" .align-left}
 {:style="clear: left"}
-## Species coexistence and community assembly
+### Species coexistence and community assembly
 
 - Co-occurrence patterns over time and space
 - Mechanisms of coexistence and assembly
@@ -44,9 +44,9 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 
 ---
 
-![](/images/fig_GoM.png){: width="300px" .align-left}
+![](/images/fig_GoM.png){: width="250px" .align-left}
 {:style="clear: left"}
-## Biodiversity patterns and biogeographical regionalization
+### Biodiversity patterns and biogeographical regionalization
 
 - Floristic structure
 - Transition zone
@@ -59,9 +59,9 @@ Sample publications: *Li et al.* (under review)
 
 ---
 
-![](/images/fig_NAC.png){: width="300px" .align-left}
+![](/images/fig_NAC.png){: width="250px" .align-left}
 {:style="clear: left"}
-## Global change and species responses
+### Global change and species responses
 
 - Non-analogous climate patterns
 - Range shifts under climate change
