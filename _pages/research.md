@@ -13,12 +13,12 @@ does not work
 ![left-aligned-image](image.jpg){: .align-left}
 ![left-aligned-image](/images/fig_nicheRange.png){: width=30% .align-left}
 {:style="clear: left"}
-![image alt <](/images/fig_niche.png){: width="250px"}
+![image alt <](/images/fig_niche.png){: width="300px"}
 
 -->
 
 
-![](/images/fig_niche.png){: width="250px" style="float:left; padding-right:30px"}
+![](/images/fig_niche.png){: width="300px" style="float:left; padding-right:30px"}
 ### Ecological speciation and niche evolution
 
 - Niche divergence and evolution
@@ -31,7 +31,7 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 ---
 
 
-![](/images/fig_spAsso.png){: width="250px" .align-left}
+![](/images/fig_spAsso.png){: width="300px" .align-left}
 {:style="clear: left"}
 ### Species coexistence and community assembly
 
@@ -43,7 +43,7 @@ Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13
 
 ---
 
-![](/images/fig_GoM.png){: width="250px" .align-left}
+![](/images/fig_GoM.png){: width="300px" .align-left}
 {:style="clear: left"}
 ### Biodiversity patterns and biogeographical regionalization
 
@@ -58,7 +58,7 @@ Sample publications: *Li et al.* (under review)
 
 ---
 
-![](/images/fig_NAC.png){: width="250px" .align-left}
+![](/images/fig_NAC.png){: width="300px" .align-left}
 {:style="clear: left"}
 ### Global change and species responses
 

@@ -27,11 +27,22 @@ Field Trips at the Hengduan Mountains Biodiversity Hotspot in southwestern China
     </div>
 </div>
 
-![alt](/images/photos/HD_Gongga.jpg){: width="500"} | ![alt](/images/photos/HD-Shangri-La.jpg){: width="500"}
+
+![alt](/images/photos/HD_Gongga.jpg){: width="500"} ![alt](/images/photos/HD-Shangri-La.jpg){: width="500"}
 
 
  | |
 |:---:|:---:|
-<img src='/images/photos/HD_Gongga.jpg' width='500'> Mt. Gongga |<img src='/images/photos/HD_ShangriLa.jpg' width='500'>|
+<img src='/images/photos/HD_Gongga.jpg' width='50%'> Mt. Gongga |<img src='/images/photos/HD_ShangriLa.jpg' width='50%'> Shangri-La |
 
 
+<table style="width:100%">
+    <tr>
+        <td><img src="images/post_004/HD_Gongga.jpg"></td>
+        <td><img src="images/post_004/HD_ShangriLa.jpg"></td>
+    </tr>
+    <tr>
+        <td><img src="images/post_004/HD_Gongga.jpg"></td>
+        <td><img src="images/post_004/HD_ShangriLa.jpg"></td>
+    </tr>
+</table>
