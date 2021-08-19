@@ -17,7 +17,7 @@ redirect_from:
 
 Academic Position
 ------
-* Interdisciplinary Postdoctoral Fellow, Field Museum, 2018 - present
+* Interdisciplinary Postdoctoral Fellow, Field Museum of Natural History, 2018 - present
 
 Education
 ------
@@ -29,5 +29,5 @@ Education
 Professional Service
 ------
 * Associate Editor (Editorial Academy): Journal of Biogeography (Oct. 2020-Sept. 2022)
-* Journal peer reviewer: New Phytologist, Journal of Biogeography, Ecology and Evolution
+* Journal peer reviewer: New Phytologist, Journal of Biogeography, Ecology and Evolution, Frontiers in Ecology and Evolution, etc.
 
