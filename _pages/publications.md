@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 Peer-reviewed Publications
 ------
 1. **Q. Li**, J. Wang, R. Fuller, Y. Xing, J. Liu, R.H. Ree. 2022. Evidence for divergence in phenology over morphology in response to limiting similarity in montane communities of *Rhododendron*. Journal of Ecology (accepted).
-1. H. Wang, X.-N. Li, S.-H. Mo, M. Wang, P.-L. Liu, *Q. Li**, Z.-Y. Chang. 2022. Tension zone trapped by exogenous cline: Analysis of a narrow hybrid zone between two parapatric *Oxytropis* species (Fabaceae). Ecology and Evolution (online).
+1. H. Wang, X.-N. Li, S.-H. Mo, M. Wang, P.-L. Liu, **Q. Li**, Z.-Y. Chang. 2022. Tension zone trapped by exogenous cline: Analysis of a narrow hybrid zone between two parapatric *Oxytropis* species (Fabaceae). Ecology and Evolution (online).
 1. **Q. Li**, H. Sun, D.E. Boufford, B. Bartholomew, P.R. Fritsch, J. Chen, T. Deng, R.H. Ree. 2021. Grade of Membership models reveal geographical and environmental correlates of floristic structure in a temperate biodiversity hotspot. New Phytologist, 232: 1424–1435.
 1. **Q. Li**, X. Kou. 2021. *WiBB*: an integrated method quantifying relative importance of predicting variables. Ecography, 44: 1–11.
 1. H. Wang, P.-L. Liu, J. Li, H. Yang, **Q. Li**, Z.-Y Chang. 2021. Why more leaflets? The role of natural selection in shaping the spatial pattern of leaf shape variation in *Oxytropis diversifolia* (Fabaceae) and two close relatives. Frontiers in Plant Science, 12: 1685.
