@@ -28,7 +28,7 @@ Education
 
 Professional Service
 ------
-* Associate Editor (Editorial Academy): Journal of Biogeography (Oct. 2020-Sept. 2022)
+* Associate Editor: Journal of Biogeography (Oct. 2020-)
 * Journal peer reviewer: New Phytologist, Journal of Ecology, Conservation Biology, Journal of Biogeography, Molecular Ecology, American Journal of Botany, Ecology and Evolution, Frontiers in Ecology and Evolution, etc.
 
 
