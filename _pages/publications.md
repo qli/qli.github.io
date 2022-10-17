@@ -10,7 +10,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 Peer-reviewed Publications
 ------
-$^*^$ Corresponding author
+<sup>*</sup> Corresponding author
 
 1. **Li Q**$^*^$, J Wang, R Fuller, Y Xing, J Liu, & RH Ree$^*^$. 2022. Evidence for divergence in phenology over morphology in response to limiting similarity in montane communities of *Rhododendron*. Journal of Ecology (in press).
 1. Zhang Li$^#^$, **Q Li**$^#^$, X Kou, O Zhiyun.2022. Distributions of two native ungulates at the third pole are highly sensitive to global warming. Global Ecology and Conservation, 39:e02292. ($^#^$ co-first author)
