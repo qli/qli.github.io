@@ -10,13 +10,13 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 Peer-reviewed Publications
 ------
-<sup>*</sup> Corresponding author
+`*` Corresponding author 
 
-1. **Li Q**$^*^$, J Wang, R Fuller, Y Xing, J Liu, & RH Ree$^*^$. 2022. Evidence for divergence in phenology over morphology in response to limiting similarity in montane communities of *Rhododendron*. Journal of Ecology (in press).
-1. Zhang Li$^#^$, **Q Li**$^#^$, X Kou, O Zhiyun.2022. Distributions of two native ungulates at the third pole are highly sensitive to global warming. Global Ecology and Conservation, 39:e02292. ($^#^$ co-first author)
+1. **Li Q**`*`, J Wang, R Fuller, Y Xing, J Liu, & RH Ree`*`. 2022. Evidence for divergence in phenology over morphology in response to limiting similarity in montane communities of *Rhododendron*. Journal of Ecology (in press).
+1. Zhang Li`#`, **Q Li**`#`, X Kou, O Zhiyun.2022. Distributions of two native ungulates at the third pole are highly sensitive to global warming. Global Ecology and Conservation, 39:e02292. (`#` co-first author)
 1. Wang H, X-N Li, S-H Mo, M Wang, P-L Liu, **Q Li**, Z-Y Chang. 2022. Tension zone trapped by exogenous cline: Analysis of a narrow hybrid zone between two parapatric *Oxytropis* species (Fabaceae). Ecology and Evolution, 12(9):e9351.
-1. **Li Q**, H Sun, DE Boufford, B Bartholomew, PR Fritsch, J Chen, T Deng, & RH Ree. 2021. Grade of Membership models reveal geographical and environmental correlates of floristic structure in a temperate biodiversity hotspot. New Phytologist, 232: 1424–1435.
-1. **Li Q** & X Kou. 2021. *WiBB*: an integrated method quantifying relative importance of predicting variables. Ecography, 44: 1–11.
+1. **Li Q**`*`, H Sun, DE Boufford, B Bartholomew, PR Fritsch, J Chen, T Deng, & RH Ree`*`. 2021. Grade of Membership models reveal geographical and environmental correlates of floristic structure in a temperate biodiversity hotspot. New Phytologist, 232: 1424–1435.
+1. **Li Q** & X Kou`*`. 2021. *WiBB*: an integrated method quantifying relative importance of predicting variables. Ecography, 44: 1–11.
 1. Wang H, P-L Liu, J Li, H Yang, **Q Li**, Z-Y Chang. 2021. Why more leaflets? The role of natural selection in shaping the spatial pattern of leaf shape variation in *Oxytropis diversifolia* (Fabaceae) and two close relatives. Frontiers in Plant Science, 12: 1685.
 1. **Li Q**, D Grossenbacher, & AL Angert. 2018. The effect of range overlap on ecological niche divergence depends on spatial scale in monkeyflowers. Evolution, 72(10): 2100-2113.
 2. **Li Q**, X Kou, C Beierkuhnlein, S Liu, & J Ge. 2018. Global patterns of non‐analogous climates in the past and future derived from thermal and hydraulic factors. Global Change Biology, 24(6): 2463-2475.
