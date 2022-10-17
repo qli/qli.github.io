@@ -22,7 +22,7 @@ Peer-reviewed Publications
 2. **Li Q**, X Kou`*`, C Beierkuhnlein, S Liu, & J Ge. 2018. Global patterns of non‐analogous climates in the past and future derived from thermal and hydraulic factors. Global Change Biology, 24(6): 2463-2475.
 3. Lee-Yaw JA`*`, HM Kharouba, M Bontrager, C Mahony, AM Csergő, AM Noreen, **Q Li**, R Schuster, & AL Angert. 2016. A synthesis of transplant experiments and ecological niche models suggests that range limits are often niche limits. Ecology Letters, 19(6): 710-722.
 4. Kou X, **Q Li**, C Beierkuhnlein, Y Zhao, & S Liu`*`. 2014. A new tool for exploring climate change induced range shifts of conifer species in China. PLoS ONE, 9(9): e98643.
-5. **Q. Li**, J Wu, X Kou`*`, & L Feng. 2013. Applications of camera trap in wildlife population ecology. China Journal of Applied Ecology. 24(4): 947-955 (in Chinese).
+5. **Li Q**, J Wu, X Kou`*`, & L Feng. 2013. Applications of camera trap in wildlife population ecology. China Journal of Applied Ecology. 24(4): 947-955 (in Chinese).
 6. Kou X`*`, **Q Li**, & S Liu. 2011. Quantifying species’ range shifts in relation to climate change: A case study of *Abies* spp. in China. PLoS ONE. 6(8): e23115.
 7. Kou X`*`, **Q Li**, & S Liu. 2011. High-resolution bioclimatic dataset derived from future climate projections for plant species distribution modeling. Ecological Informatics. 6: 196-204.
 
