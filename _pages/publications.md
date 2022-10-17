@@ -13,7 +13,7 @@ Peer-reviewed Publications
 `*` Corresponding author 
 
 1. **Li Q**`*`, J Wang, R Fuller, Y Xing, J Liu, & RH Ree`*`. 2022. Evidence for divergence in phenology over morphology in response to limiting similarity in montane communities of *Rhododendron*. Journal of Ecology (in press).
-1. Zhang Li`#`, **Q Li**`#`, X Kou`*`, O Zhiyun`*`. 2022. Distributions of two native ungulates at the third pole are highly sensitive to global warming. Global Ecology and Conservation, 39:e02292. (`#` co-first author)
+1. Zhang Li`#`, **Q Li**`#`, X Kou`*`, Z Ouyang`*`. 2022. Distributions of two native ungulates at the third pole are highly sensitive to global warming. Global Ecology and Conservation, 39:e02292. (`#` co-first author)
 1. Wang H`*`, X-N Li, S-H Mo, M Wang, P-L Liu, **Q Li**, Z-Y Chang. 2022. Tension zone trapped by exogenous cline: Analysis of a narrow hybrid zone between two parapatric *Oxytropis* species (Fabaceae). Ecology and Evolution, 12(9):e9351.
 1. **Li Q**`*`, H Sun, DE Boufford, B Bartholomew, PR Fritsch, J Chen, T Deng, & RH Ree`*`. 2021. Grade of Membership models reveal geographical and environmental correlates of floristic structure in a temperate biodiversity hotspot. New Phytologist, 232: 1424–1435.
 1. **Li Q** & X Kou`*`. 2021. *WiBB*: an integrated method quantifying relative importance of predicting variables. Ecography, 44: 1–11.
