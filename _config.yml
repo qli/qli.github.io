@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qin Li | Home"
 title_separator          : "-"
 name                     : &name "Qin Li"
-description              : &description "Postdoc"
+description              : &description "TTAP"
 url                      : https://qli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qli/qli.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "李勤 ｜ Qin Li"
   avatar           : "profile_qinli.png"
-  bio              : "Postdoctoral Researcher"
-  location         : "The Field Museum"
+  bio              : "Associate Professor (Tenure-Track)"
+  location         : "East China Normal University"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=chGL78AAAAAJ&hl=en&authuser=1"
-  email            : "qli(at)fieldmuseum(dot)org"
+  email            : "qli(at)des(dot)ecnu(dot)edu(dot)cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
