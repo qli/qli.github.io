@@ -22,42 +22,26 @@ does not work
 {: style="clear: both"}
 ### Global Change and Biodiversity Conservation
 
-Global change is one major threat to biodiversity on the Earth. How and where climate changes happen need continuous monitoring, quantification, and predictions, across space and time. Most obviously, the global surface temperature has significant increased about roughly 1 degrees Celsius since the pre-industrial era (1880-1900), and is predicted to increase under various greenhouse gas emission scenarios. Additionally, extreme events become more frequent recently. Consequently, organisms response to global change also needs to be studied along various dimensions. Shifts in species' geographical distributions (expansion, contraction, centroid shift) have been predicted and examined in past decades. We have carried out studies on non-analogous climate patterns and range shifts, and have advanced variable selection and modeling framework in Species Distribution Models (SDM). We aim to continue to work on species range dynamics, range limits, and collectively changes of biodiversity patterns, which would contribute to our effort to biodiversity conservation of our planet.
+Global change is one major threat to biodiversity on the Earth. Climate changes have been continuous monitored, quantified, and predicted, across space and time, such as significantly raised temperature, and more frequently extreme events. Consequently, how organism response to global change has been a long-lasting topic in ecology and conservation. We have been focusing on shifts in species' geographical distributions (expansion, contraction, and shift) and have advanced relevant techniques of Species Distribution Models (SDM). We aim to continue to work on species range dynamics, range limits, and collectively changes of biodiversity patterns, which would contribute to our effort to biodiversity conservation of our planet.
 
 Sample publications: [*Li, et al., 2018, GCB*](https://doi.org/10.1111/gcb.14104), [*Li, et al., 2021, Ecography*](https://doi.org/10.1111/ecog.05651), [*Zhang, Li, et al., 2022 GEC*](https://doi.org/10.1016/j.gecco.2022.e02292)
 
 ---
 
-![](/images/fig_niche.png){: width="300px" style="float:left; padding-right:30px"}
-### Ecological speciation and niche evolution
-- Niche divergence and evolution
-- Range evolution
-- Geography of speciation
-- Local adaptation and population genomics
+![](/images/fig_HDflora.png){: width="300px" style="float:left; padding-right:30px"}
+{: style="clear: both"}
+### Biodiversity hotspot: Formation and Persistence
+Biodiversity hotspots around the world attract researchers' attention to understand the formation and persistent of their high diversity of species. Key to understanding the nature of biogeographical regions, and their disparities in richness and endemism, is the identification of patterns and possible causes of species turnover.
 
-Sample publications: [*Li et al. 2018 Evolution*](https://doi.org/10.1111/evo.13567), *Li et al.* (under review)
+Sample publications: [*Li, et al., 2021, New Phytologist*](https://doi.org/10.1111/nph.17443) (See also [the Commentary](https://doi.org/10.1111/nph.17645))
 
 ---
 
+![](/images/fig_rhodo.png){: width="300px" style="float:left; padding-right:30px"}
+### Diversification and Species Coexistence
+Why there are so many species at some places? How did species originated and diversified? What factors mediate the coexistence of closely related species arising from in situ diversification? We have been attempting to answer the above questions with various systems (mostly plant species, e.g., *Mimulus*, *Rhododendron*) at various locations (California Floristic Province, Hengduan Mountains), through topics of niche evolution, ecological speciation, and local adaptation. We looked at niche divergence along multiple dimensions, such as macrohabitat versus microhabitat, morphology versus phenology.
 
-![](/images/fig_spAsso.png){: width="300px" style="float:left; padding-right:30px"}
-{: style="clear: both"}
-### Species coexistence and community assembly
-- Co-occurrence patterns over time and space
-- Mechanisms of coexistence and assembly
-- Environmental gradients and historical contingency
-- Species association/network
+Sample publications: [*Li, et al., 2018, Evolution*](https://doi.org/10.1111/evo.13567), [*Li, et al., 2022, J of Ecology*](https://doi.org/10.1111/1365-2745.14002)
 
-
----
-
-![](/images/fig_GoM.png){: width="300px" style="float:left; padding-right:30px"}
-{: style="clear: both"}
-### Biodiversity patterns and biogeographical regionalization
-- Floristic structure and transition zone
-- Environmental correlates
-- Taxonomic composition
-
-Sample publications: *Li et al.* (under review)
 
 
