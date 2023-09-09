@@ -31,3 +31,9 @@ Peer-reviewed Publications
 
 **Manuscripts in preparation**
 1. **Li Q** & RH Ree. Genomic structure and local adaptation of alpine *Rhododendron*.
+
+
+Editorials
+------
+1. Williams, JW, A Taylor, KA Tolley, DB Provete, R Correia, TB Guedes, H Farooq, **Q Li**, HT Pinheiro, AV Liz, LW Luna. 2023. Shifts to open access with high article processing charges hinder research equity and careers. Journal of Biogeography, 50(9): 1485-1489.
+2. Dawson MN, RA Correia, **Q Li**, TJ Matthews, AF Palmeirim. 2023. Journal of biogeography innovation awards. Journal of Biogeography, 50(1):41-2.
