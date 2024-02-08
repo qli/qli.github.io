@@ -34,8 +34,10 @@ Qin joined the faculty at East China Normal University (Shanghai, China) since t
 -->
 
 ---
+
 Current Graduate Students
 ------
+
 ![](/images/Qianni-Shen.jpg){: width="300px" style="float:left; padding-right:30px"}
 {: style="clear: both"}
 ### Qianni Shen
