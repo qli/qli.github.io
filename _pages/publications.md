@@ -12,11 +12,12 @@ Peer-reviewed Publications
 ------
 `*` Corresponding author 
 1. **Li Q**, D Chen, & S Wang`*`. 2023. Character displacement of egg colors during tinamou speciation. Evolution, 77(8): 1874–1881. [Link](https://doi.org/10.1093/evolut/qpad085)
-1. **Li Q**`*`, J Wang, R Fuller, Y Xing, J Liu, & RH Ree`*`. 2022. Evidence for divergence in phenology over morphology in response to limiting similarity in montane communities of *Rhododendron*. Journal of Ecology, 110(12): 2960-2970. [Link](https://doi.org/10.1111/1365-2745.14002);
-	- Media Coverage ([Field Museum](https://www.fieldmuseum.org/about/press/different-blossoming-schedules-have-kept-these-flowers-driving-each-other-extinct), [AAAS-EurekAlert](https://www.eurekalert.org/news-releases/968376), [CNN](https://edition.cnn.com/2022/10/28/world/mystery-flower-rhododendrons-china-hengduan-scn/index.html), [Popular Science](https://www.popsci.com/science/rhododendron-bloom-schedule/), [Cosmos](https://cosmosmagazine.com/nature/rhododendron-flowering-timing/))
+1. **Li Q**`*`, J Wang, R Fuller, Y Xing, J Liu, & RH Ree`*`. 2022. Evidence for divergence in phenology over morphology in response to limiting similarity in montane communities of *Rhododendron*. Journal of Ecology, 110(12): 2960-2970. [Link](https://doi.org/10.1111/1365-2745.14002)
+	- Media Coverage: [Field Museum](https://www.fieldmuseum.org/about/press/different-blossoming-schedules-have-kept-these-flowers-driving-each-other-extinct), [AAAS-EurekAlert](https://www.eurekalert.org/news-releases/968376), [CNN](https://edition.cnn.com/2022/10/28/world/mystery-flower-rhododendrons-china-hengduan-scn/index.html), [Popular Science](https://www.popsci.com/science/rhododendron-bloom-schedule/), [Cosmos](https://cosmosmagazine.com/nature/rhododendron-flowering-timing/);
 1. Zhang Li`#`, **Q Li**`#`, X Kou`*`, Z Ouyang`*`. 2022. Distributions of two native ungulates at the third pole are highly sensitive to global warming. Global Ecology and Conservation, 39: e02292. (`#` co-first author) [Link](https://doi.org/10.1016/j.gecco.2022.e02292)
 1. Wang H`*`, X-N Li, S-H Mo, M Wang, P-L Liu, **Q Li**, Z-Y Chang. 2022. Tension zone trapped by exogenous cline: Analysis of a narrow hybrid zone between two parapatric *Oxytropis* species (Fabaceae). Ecology and Evolution, 12(9):e9351. [Link](https://doi.org/10.1002/ece3.9351)
 1. **Li Q**`*`, H Sun, DE Boufford, B Bartholomew, PR Fritsch, J Chen, T Deng, & RH Ree`*`. 2021. Grade of Membership models reveal geographical and environmental correlates of floristic structure in a temperate biodiversity hotspot. New Phytologist, 232: 1424–1435. [Link](https://doi.org/10.1111/nph.17443)
+	- the Commentary by [Muellner-Riehl & Favre](https://doi.org/10.1111/nph.17645);
 1. **Li Q** & X Kou`*`. 2021. *WiBB*: an integrated method quantifying relative importance of predicting variables. Ecography, 44: 1–11. [Link](https://doi.org/10.1111/ecog.05651)
 1. Wang H`*`, P-L Liu, J Li, H Yang, **Q Li**, Z-Y Chang. 2021. Why more leaflets? The role of natural selection in shaping the spatial pattern of leaf shape variation in *Oxytropis diversifolia* (Fabaceae) and two close relatives. Frontiers in Plant Science, 12: 1685. [Link](https://doi.org/10.3389/fpls.2021.681962)
 1. **Li Q**`*`, D Grossenbacher, & AL Angert. 2018. The effect of range overlap on ecological niche divergence depends on spatial scale in monkeyflowers. Evolution, 72(10): 2100-2113. [Link](https://doi.org/10.1111/evo.13567)
@@ -31,8 +32,9 @@ Peer-reviewed Publications
 1. **Li Q** & AL Angert. The diversification and evolution of niche breadth across spatial scales in western North American monkeyflowers.
 
 **Manuscripts in preparation**
-1. **Li Q** & RH Ree. Genomic structure and local adaptation of alpine *Rhododendron*.
+1. **Li Q** & RH Ree. Genomic structure and local adaptation of an alpine *Rhododendron*.
 
+---
 
 Editorials
 ------
