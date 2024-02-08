@@ -17,7 +17,7 @@ Research conducted in the Li Lab encompasses the fields of ecology, evolution, a
 | ![study site](/images/photos/ECNU.jpeg) | ![university location](/images/photos/HD/HD_1.jpg) |
 --> 
 
-![university location](/images/photos/ECNU.jpg "where we are?"){: width="400px" style="float:right; padding-left:30px"}
+![university location](/images/ECNU.jpg "where we are?"){: width="400px" style="float:right; padding-left:30px"}
 ![study site](/images/photos/HD/HD_1.jpg "where we study?"){: width="400px" style="float:left; padding-right:30px"}
 {: style="clear: both"}
 
