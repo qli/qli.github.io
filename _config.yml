@@ -190,7 +190,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  cv:
+  team:
     output: true
     permalink: /:collection/:path/
   galleries:
@@ -261,10 +261,11 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _cv
+  # _cv (changed to)
+  # _team
   - scope:
       path: ""
-      type: cv
+      type: team
     values:
       layout: single
       author_profile: true
