@@ -26,18 +26,18 @@ Research conducted in the Li Lab encompasses the fields of ecology, evolution, a
 |![](/images/ECNU.jpg){: width="400px"}| ![](/images/photos/HD/HD_1.jpg){: width="400px"} |
 | *[university](https://www.ecnu.edu.cn/) in Shanghai* | *study site in Hengduan* |
 
+---
 
-<table style="border: none;">
-  <tr>
-    <td style="padding: 0;">
-      <img src="/images/ECNU.jpg" alt="ECNU" width="400px">
-      <p><em><a href="https://www.ecnu.edu.cn/">where we are? University</a> in Shanghai</em></p>
-    </td>
-    <td style="padding: 0;">
-      <img src="/images/photos/HD/HD_1.jpg" alt="Hengduan" width="400px">
-      <p><em>where we study? Study site in Hengduan</em></p>
-    </td>
-  </tr>
-</table>
+
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 20px; text-align: center;">
+    <img src="/images/ECNU.jpg" alt="ECNU" width="400px">
+    <p><em>where we are?  <a href="https://www.ecnu.edu.cn/">University</a> in Shanghai</em></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="/images/photos/HD/HD_1.jpg" alt="Hengduan" width="400px">
+    <p><em>where we study? Study site in Hengduan</em></p>
+  </div>
+</div>
 
 
