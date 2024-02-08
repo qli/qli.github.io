@@ -17,7 +17,7 @@ Peer-reviewed Publications
 1. Zhang Li`#`, **Q Li**`#`, X Kou`*`, Z Ouyang`*`. 2022. Distributions of two native ungulates at the third pole are highly sensitive to global warming. Global Ecology and Conservation, 39: e02292. (`#` co-first author) [Link](https://doi.org/10.1016/j.gecco.2022.e02292)
 1. Wang H`*`, X-N Li, S-H Mo, M Wang, P-L Liu, **Q Li**, Z-Y Chang. 2022. Tension zone trapped by exogenous cline: Analysis of a narrow hybrid zone between two parapatric *Oxytropis* species (Fabaceae). Ecology and Evolution, 12(9):e9351. [Link](https://doi.org/10.1002/ece3.9351)
 1. **Li Q**`*`, H Sun, DE Boufford, B Bartholomew, PR Fritsch, J Chen, T Deng, & RH Ree`*`. 2021. Grade of Membership models reveal geographical and environmental correlates of floristic structure in a temperate biodiversity hotspot. New Phytologist, 232: 1424–1435. [Link](https://doi.org/10.1111/nph.17443)
-	- the Commentary by [Muellner-Riehl & Favre](https://doi.org/10.1111/nph.17645);
+	- A Commentary by [Muellner-Riehl & Favre](https://doi.org/10.1111/nph.17645);
 1. **Li Q** & X Kou`*`. 2021. *WiBB*: an integrated method quantifying relative importance of predicting variables. Ecography, 44: 1–11. [Link](https://doi.org/10.1111/ecog.05651)
 1. Wang H`*`, P-L Liu, J Li, H Yang, **Q Li**, Z-Y Chang. 2021. Why more leaflets? The role of natural selection in shaping the spatial pattern of leaf shape variation in *Oxytropis diversifolia* (Fabaceae) and two close relatives. Frontiers in Plant Science, 12: 1685. [Link](https://doi.org/10.3389/fpls.2021.681962)
 1. **Li Q**`*`, D Grossenbacher, & AL Angert. 2018. The effect of range overlap on ecological niche divergence depends on spatial scale in monkeyflowers. Evolution, 72(10): 2100-2113. [Link](https://doi.org/10.1111/evo.13567)
@@ -33,6 +33,7 @@ Peer-reviewed Publications
 
 **Manuscripts in preparation**
 1. **Li Q** & RH Ree. Genomic structure and local adaptation of an alpine *Rhododendron*.
+
 
 ---
 
