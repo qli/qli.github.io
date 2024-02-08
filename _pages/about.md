@@ -9,12 +9,9 @@ redirect_from:
 
 Research conducted in the Li Lab encompasses the fields of ecology, evolution, and biogeography. At the heart of our work lies a passionate commitment to understanding the complexities of biodiversity, exploring processes of diversification, and unraveling the mechanisms driving species coexistence. Our investigations span vast spatiotemporal scales, with a particular focus on plant and mountain systems. From dissecting the impacts of global change on species distributions to unraveling the formation and persistence of biodiversity hotspots, our research endeavors are diverse and dynamic. We delve into questions surrounding niche evolution, ecological speciation, and local adaptation, employing cutting-edge techniques to shed light on these fascinating phenomena. Learn more about [current projects](https://qli.github.io/research/), [lab members](https://qli.github.io/team/), and joining the lab.
 
-![where we study?](/images/photos/HD/HD_1.jpg){: width="300px" style="float:left; padding-right:30px"}
-![where we are?](/images/photos/HD/HD_1.jpg){: width="300px" style="float:left; padding-right:30px"}
+![Alt](/images/photos/ECNU.jpg "where we are?"){: width="400px" style="float:right; padding-left:30px"}
+![Alt](/images/photos/HD/HD_1.jpg "where we study?"){: width="400px" style="float:left; padding-right:30px"}
 {: style="clear: both"}
-
-<img src="/images/photos/HD/HD_1.jpg" width="45%" style="padding-right: 20px"><img src="/images/photos/HD/HD_2.jpg" width="45%">
-
 
 <!--
 I am an associate professor (tenure-track) at the School of Ecological and Environmental Sciences at East China Normal University (Shanghai, China) since the fall of 2022. My research interests lie in the fields of ecology, evolution, and biogeography. My past and present work have focused on understanding of biodiversity, processes of diversification, and mechanisms of species co-existence, across spatiotemporal scales, particularly about (but not limited to) plant and mountain systems.
