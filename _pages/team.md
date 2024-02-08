@@ -38,7 +38,7 @@ Qin joined the faculty at East China Normal University (Shanghai, China) since t
 Current Graduate Students
 ------
 
-![](/images/Qianni-Shen.jpg){: width="300px" style="float:left; padding-right:30px"}
+![](/images/Qianni-Shen.jpg){: width="200px" style="float:left; padding-right:30px"}
 {: style="clear: both"}
 ### Qianni Shen
 Qianni is a master student since 2023. Before this, she graduated from Nanjing Agriculture University. Her current project is focusing on the diversity of functional traits across dominant plant genera in Hengduan Mountains.
