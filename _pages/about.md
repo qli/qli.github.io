@@ -19,7 +19,6 @@ Research conducted in the Li Lab encompasses the fields of ecology, evolution, a
 {: style="clear: both"}
 
 | where we are? | where we study? |
-|:--:|:--:|
 |![](/images/ECNU.jpg){: width="400px"}| ![](/images/photos/HD/HD_1.jpg){: width="400px"} |
 | *[university](https://www.ecnu.edu.cn/) in Shanghai* | *study site in Hengduan* |
 
