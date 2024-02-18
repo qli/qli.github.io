@@ -21,6 +21,7 @@ does not work
 
 <div style="display: flex; justify-content: space-around;">
   <div style="flex: 1; margin-right: 20px;">
+    <br><br><br> <!-- Empty lines added here -->
     <img src="/images/fig_rhodo.png" alt="R1" width="400px">
   </div>
   <div style="flex: 2;">
