@@ -21,7 +21,6 @@ does not work
 
 <div style="display: flex; justify-content: space-around;">
   <div style="flex: 1; margin-right: 20px;">
-    <br>
     <br> <!-- Empty lines added here -->
     <img src="/images/fig_rhodo.png" alt="R1" width="400px">
   </div>
@@ -42,7 +41,6 @@ does not work
 
 <div style="display: flex; justify-content: space-around;">
   <div style="flex: 1; margin-right: 20px;">
-    <br>
     <br> <!-- Empty lines added here -->
     <img src="/images/fig_HDflora.png" alt="Left Image 2" width="400px">
   </div>
@@ -59,7 +57,6 @@ does not work
 
 <div style="display: flex; justify-content: space-around;">
   <div style="flex: 1; margin-right: 20px;">
-    <br>
     <br> <!-- Empty lines added here -->
     <img src="/images/fig_NAC.png" alt="R3" width="400px">
   </div>
