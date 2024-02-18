@@ -28,12 +28,12 @@ Research conducted in the Li Lab encompasses the fields of ecology, evolution, a
   <div style="margin-right: 20px; text-align: center;">
     <img src="/images/ECNU.jpg" alt="ECNU" width="400px">
     <p><em>Where we are?</em></p>
-    <p style="margin-bottom: 5px; font-size: smaller;><a href="https://www.ecnu.edu.cn/">East China Normal University</a> in Shanghai</p>
+    <p style="margin-bottom: 1px; font-size: smaller;"><a href="https://www.ecnu.edu.cn/">East China Normal University</a> in Shanghai</p>
   </div>
   <div style="text-align: center;">
     <img src="/images/photos/HD/HD_1.jpg" alt="Hengduan" width="400px">
     <p><em>Where we study?</em></p>
-    <p style="margin-bottom: 5px; font-size: smaller;">A study site in Hengduan Mountains</p>
+    <p style="margin-bottom: 1px; font-size: smaller;">A study site in Hengduan Mountains</p>
   </div>
 </div>
 

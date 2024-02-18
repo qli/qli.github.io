@@ -21,7 +21,8 @@ does not work
 
 <div style="display: flex; justify-content: space-around;">
   <div style="flex: 1; margin-right: 20px;">
-    <br><br><br> <!-- Empty lines added here -->
+    <br>
+    <br> <!-- Empty lines added here -->
     <img src="/images/fig_rhodo.png" alt="R1" width="400px">
   </div>
   <div style="flex: 2;">
@@ -29,9 +30,9 @@ does not work
     Why there are so many species at some places? How did species originated and diversified? What factors mediate the coexistence of closely related species arising from in situ diversification? We have been attempting to answer the above questions with various systems (mostly plant species, e.g., *Mimulus*, *Rhododendron*) at various locations of exceptional biodiversity (California Floristic Province, Hengduan Mountains), through topics of niche evolution, ecological speciation, and local adaptation. We looked at niche divergence along multiple dimensions, such as macrohabitat versus microhabitat, morphology versus phenology.
 
     <p>Sample publications: 
-    <a href="https://doi.org/10.1111/evo.13567">Li et al., 2018, Evolution</a>, 
-    <a href="https://doi.org/10.1111/1365-2745.14002">Li et al., 2022, J of Ecology</a>, 
-    <a href="https://doi.org/10.1093/evolut/qpad085">Li et al., 2023, Evolution</a>
+    <a href="https://doi.org/10.1111/evo.13567">Li et al. 2018 Evolution</a>, 
+    <a href="https://doi.org/10.1111/1365-2745.14002">Li et al. 2022 J of Ecology</a>, 
+    <a href="https://doi.org/10.1093/evolut/qpad085">Li et al. 2023 Evolution</a>
 </p>
 
   </div>
@@ -41,13 +42,15 @@ does not work
 
 <div style="display: flex; justify-content: space-around;">
   <div style="flex: 1; margin-right: 20px;">
+    <br>
+    <br> <!-- Empty lines added here -->
     <img src="/images/fig_HDflora.png" alt="Left Image 2" width="400px">
   </div>
   <div style="flex: 2;">
     <h3>Biodiversity hotspot: Formation and Persistence</h3>
     Biodiversity hotspots around the world attract researchers' attention to understand the formation and persistent of their high diversity of species. Key to understanding the nature of biogeographical regions, and their disparities in richness and endemism, is the identification of patterns and possible causes of species turnover. We focus on the temperate biodiversity hotspot, Hengduan Mountains of southwestern China, to determine the patterns and correlates of floristic structure around and within this region, and emphasize the effect of elevation on biotic turnover.
 
-    <p>Sample publications: <a href="https://doi.org/10.1111/nph.17443">Li, et al., 2021, New Phytologist</a> (See also <a href="https://doi.org/10.1111/nph.17645">the Commentary</a>)</p>
+    <p>Sample publications: <a href="https://doi.org/10.1111/nph.17443">Li et al. 2021 New Phytologist</a> (See also <a href="https://doi.org/10.1111/nph.17645">the Commentary</a>)</p>
 
   </div>
 </div>
@@ -56,14 +59,16 @@ does not work
 
 <div style="display: flex; justify-content: space-around;">
   <div style="flex: 1; margin-right: 20px;">
+    <br>
+    <br> <!-- Empty lines added here -->
     <img src="/images/fig_NAC.png" alt="R3" width="400px">
   </div>
   <div style="flex: 2;">
     <h3>Global Change and Biodiversity Conservation</h3>
     Global change is one major threat to biodiversity on the Earth. Climate changes have been continuous monitored, quantified, and predicted, across space and time, such as significantly raised temperature, and more frequently extreme events. Consequently, how organism response to global change has been a long-lasting topic in ecology and conservation. We have been focusing on shifts in species' geographical distributions (expansion, contraction, and shift) and have advanced relevant techniques of Species Distribution Models (SDM). We aim to continue to work on species range dynamics, range limits, and collectively changes of biodiversity patterns, which would contribute to our effort to biodiversity conservation of our planet.
 
-    <p>Sample publications: <a href="https://doi.org/10.1111/gcb.14104">Li et al., 2018, GCB</a>, <a href="https://doi.org/10.1111/ecog.05651">Li et al., 2021, Ecography</a>, 
-    <a href="https://doi.org/10.1016/j.gecco.2022.e02292">Zhang, Li, et al., 2022 GEC</a></p>
+    <p>Sample publications: <a href="https://doi.org/10.1111/gcb.14104">Li et al. 2018 GCB</a>, <a href="https://doi.org/10.1111/ecog.05651">Li et al. 2021 Ecography</a>, 
+    <a href="https://doi.org/10.1016/j.gecco.2022.e02292">Zhang, Li et al. 2022 GEC</a></p>
   </div>
 </div>
 
