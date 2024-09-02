@@ -11,6 +11,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 Peer-reviewed Publications
 ------
 `*` Corresponding author 
+1. Lyu ZT, ZC Zeng, H Wan, **Q Li**, A Tominaga, K Nishikawa, M. Matsui, SZ Li,  ZWJiang, Y. Liu`*`, YY  Wang`*`. 2024. Contrasting nidification behaviors facilitate diversification and colonization of the Music frogs under a changing paleoclimate. Communications Biology, 7(1): 638.
 1. **Li Q**, D Chen, & S Wang`*`. 2023. Character displacement of egg colors during tinamou speciation. Evolution, 77(8): 1874–1881. [Link](https://doi.org/10.1093/evolut/qpad085)
 1. **Li Q**`*`, J Wang, R Fuller, Y Xing, J Liu, & RH Ree`*`. 2022. Evidence for divergence in phenology over morphology in response to limiting similarity in montane communities of *Rhododendron*. Journal of Ecology, 110(12): 2960-2970. [Link](https://doi.org/10.1111/1365-2745.14002)
 	- Media Coverage: [Field Museum](https://www.fieldmuseum.org/about/press/different-blossoming-schedules-have-kept-these-flowers-driving-each-other-extinct), [AAAS-EurekAlert](https://www.eurekalert.org/news-releases/968376), [CNN](https://edition.cnn.com/2022/10/28/world/mystery-flower-rhododendrons-china-hengduan-scn/index.html), [Popular Science](https://www.popsci.com/science/rhododendron-bloom-schedule/), [Cosmos](https://cosmosmagazine.com/nature/rhododendron-flowering-timing/);
