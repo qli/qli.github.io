@@ -17,6 +17,7 @@ redirect_from:
 
 Academic Position
 ------
+* Assistant Professor, East China Normal University, 2022 - present
 * Interdisciplinary Postdoctoral Fellow, Field Museum of Natural History, 2018 - 2022
 
 Education
@@ -28,7 +29,7 @@ Education
 
 Professional Service
 ------
-* Associate Editor: Journal of Biogeography (Oct. 2020-)
+* Associate Editor: Journal of Biogeography (Oct. 2020 - July 2023)
 * Journal peer reviewer: New Phytologist, Journal of Ecology, Conservation Biology, Journal of Biogeography, Molecular Ecology, American Journal of Botany, Ecology and Evolution, Frontiers in Ecology and Evolution, etc.
 
 

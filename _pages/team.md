@@ -11,7 +11,7 @@ redirect_from:
 
 Principal Investigator
 ------
-Qin joined the faculty at East China Normal University (Shanghai, China) since the fall of 2022, as an associate professor (tenure-track) at the School of Ecological and Environmental Sciences. Before this, she was a postdoctoral researcher working with [Richard Ree](https://sites.google.com/fieldmuseum.org/reelab/) at the Field Museum of Natural History, completed her PhD from University of British Columbia under the supervision of [Amy Angert](https://angert.github.io), and received a MS in Ecology and a BS in Biology from Beijing Normal University.
+Qin joined the faculty at East China Normal University (Shanghai, China) since the fall of 2022, as an assistant professor at the School of Ecological and Environmental Sciences. Before this, she was a postdoctoral researcher working with [Richard Ree](https://sites.google.com/fieldmuseum.org/reelab/) at the Field Museum of Natural History, completed her PhD from University of British Columbia under the supervision of [Amy Angert](https://angert.github.io), and received a MS in Ecology and a BS in Biology from Beijing Normal University.
 
 [Qin's CV](https://github.com/qli/qli.github.io/tree/main/files/QinLi_CV.pdf)
 
@@ -20,7 +20,7 @@ Qin joined the faculty at East China Normal University (Shanghai, China) since t
 (short CV)
 
 #### Academic Position
-* Associate Professor (tenure-track), East China Normal University, 2022.10 - present
+* Assistant Professor, East China Normal University, 2022.10 - present
 * Interdisciplinary Postdoctoral Fellow, Field Museum of Natural History, 2018 - 2022
 
 #### Education
@@ -40,10 +40,18 @@ Current Graduate Students
 
 ![](/images/Qianni-Shen.jpg){: width="200px" style="float:left; padding-right:30px"}
 {: style="clear: both"}
-### Qianni Shen
-Qianni is a master student since 2023. Before this, she graduated from Nanjing Agriculture University. Her current project is focusing on the diversity of functional traits across dominant plant genera in Hengduan Mountains.
+### Qianni Shen (沈倩倪)
+Qianni is a master student since the fall of 2023. Before this, she graduated from Nanjing Agriculture University. Her current project is focusing on the diversity of functional traits across dominant plant genera in Hengduan Mountains.
 
 ------
 
-### Ni He
-Ni is a master student since 2023. Before this, she graduated from Southwestern Forestry University. Her current project is focusing on the phenology divergence among *Rhododendron* species in Hengduan Mountains, in relation to their geographical distributions.
+### Ni He (何妮)
+Ni is a master student since the fall of 2023. Before this, she graduated from Southwestern Forestry University. Her current project is focusing on the phenology divergence among *Rhododendron* species in Hengduan Mountains, in relation to their geographical distributions.
+
+### Yilong Kang (康怡珑)
+Yilong is a master student since the fall of 2024. Before this, she graduated from Guangxi University. Her current project is focusing on the vegetation on cliffs.
+
+Undergraduate Students
+------
+
+Shang-Heng (杨尚衡), Zhe Cao (曹喆), Alessier (艾力西尔) (They are working on quantifying leaf characteristics of broad-leaved forests through image processing)
