@@ -48,10 +48,13 @@ Qianni is a master student since the fall of 2023. Before this, she graduated fr
 ### Ni He (何妮)
 Ni is a master student since the fall of 2023. Before this, she graduated from Southwestern Forestry University. Her current project is focusing on the phenology divergence among *Rhododendron* species in Hengduan Mountains, in relation to their geographical distributions.
 
+------
+
 ### Yilong Kang (康怡珑)
 Yilong is a master student since the fall of 2024. Before this, she graduated from Guangxi University. Her current project is focusing on the vegetation on cliffs.
 
 Undergraduate Students
 ------
 
-Shang-Heng (杨尚衡), Zhe Cao (曹喆), Alessier (艾力西尔) (They are working on quantifying leaf characteristics of broad-leaved forests through image processing)
+### Shang-Heng (杨尚衡), Zhe Cao (曹喆), Alessier (艾力西尔)
+They, as a group, are working on quantifying leaf characteristics of broad-leaved forests through image processing.
