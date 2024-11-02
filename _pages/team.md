@@ -11,7 +11,7 @@ redirect_from:
 
 Principal Investigator
 ------
-Qin joined the faculty at East China Normal University (Shanghai, China) since the fall of 2022, as an assistant professor at the School of Ecological and Environmental Sciences. Before this, she was a postdoctoral researcher working with [Richard Ree](https://sites.google.com/fieldmuseum.org/reelab/) at the Field Museum of Natural History, completed her PhD from University of British Columbia under the supervision of [Amy Angert](https://angert.github.io), and received a MS in Ecology and a BS in Biology from Beijing Normal University.
+Qin joined the faculty at East China Normal University (Shanghai, China) since the fall of 2022, as an Associate Professor} (tenure-track) at the School of Ecological and Environmental Sciences. Before this, she was a postdoctoral researcher working with [Richard Ree](https://sites.google.com/fieldmuseum.org/reelab/) at the Field Museum of Natural History, completed her PhD from University of British Columbia under the supervision of [Amy Angert](https://angert.github.io), and received a MS in Ecology and a BS in Biology from Beijing Normal University.
 
 [Qin's CV](https://github.com/qli/qli.github.io/tree/main/files/QinLi_CV.pdf)
 

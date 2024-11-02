@@ -17,7 +17,7 @@ redirect_from:
 
 Academic Position
 ------
-* Assistant Professor, East China Normal University, 2022 - present
+* Associate Professor (tenure-track), East China Normal University, 2022 - present
 * Interdisciplinary Postdoctoral Fellow, Field Museum of Natural History, 2018 - 2022
 
 Education
