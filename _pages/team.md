@@ -44,7 +44,8 @@ Current Graduate Students
 Qianni is a master student since the fall of 2023. Before this, she graduated from Nanjing Agriculture University. Her current project is focusing on the diversity of functional traits across dominant plant genera in Hengduan Mountains.
 
 ------
-
+![](/images/Ni-He.jpg){: width="200px" style="float:left; padding-right:30px"}
+{: style="clear: both"}
 ### Ni He (何妮)
 Ni is a master student since the fall of 2023. Before this, she graduated from Southwestern Forestry University. Her current project is focusing on the phenology divergence among *Rhododendron* species in Hengduan Mountains, in relation to their geographical distributions.
 
