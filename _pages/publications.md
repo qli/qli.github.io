@@ -31,12 +31,12 @@ Peer-reviewed Publications
 7. Kou X`*`, **Q Li**, & S Liu. 2011. High-resolution bioclimatic dataset derived from future climate projections for plant species distribution modeling. Ecological Informatics. 6: 196-204. [Link](https://doi.org/10.1016/j.ecoinf.2011.01.004)
 
 **Manuscripts under review/revision** (available upon request)
-1. **Li Q**, Hu, K., Wang, J., Fuller, R., Lu, J-Y, Wang, H., Liu, J., Ree, RH, Kou X*. Genome-wide signatures and ecological strategies show the adaptation of an alpine *Rhododendron* along elevation.
-1. **Li Q** & AL Angert. The diversification and evolution of niche breadth across spatial scales in western North American monkeyflowers.
+1. **Li Q**, Hu, K., Wang, J., Fuller, R., Lu, J-Y, Wang, H., Liu, J., Ree, RH, Kou X`*`. Genome-wide signatures and ecological strategies show the adaptation of an alpine *Rhododendron* along elevation.
+1. **Li Q**`*` & AL Angert. The diversification and evolution of niche breadth across spatial scales in western North American monkeyflowers.
 
 **Manuscripts in preparation**
-1. Shen, Q-N, He, N., Kang, Y-L, Ma, Y-Z, Lu, J-Y, Wang, F., **Li Q**. Floral evolution in a generalized pollination system of *Rhododendron*.
-2. He, N., Shen, Q-N, Sun, M-F, Wang, F., Xing, D-L, **Li Q**. Linking leaf spectra and functional traits to species divergence and adaptation of *Rhododendron* in the Hengduan Mountains.
+1. Shen, Q-N, He, N., Kang, Y-L, Ma, Y-Z, Lu, J-Y, Wang, F., **Li Q**`*`. Floral evolution in a generalized pollination system of *Rhododendron*.
+2. He, N., Shen, Q-N, Sun, M-F, Wang, F., Xing, D-L, **Li Q**`*`. Linking leaf spectra and functional traits to species divergence and adaptation of *Rhododendron* in the Hengduan Mountains.
 
 ---
 
