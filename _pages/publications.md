@@ -11,6 +11,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 Peer-reviewed Publications
 ------
 `*` Corresponding author 
+1. Wang J, X Mao, B Liu, Z Wang, Y Ma, **Q Li**, J Liu. 2025. Recurrent hybridisations during diversification of one Rhododendron species complex. Molecular Ecology, online.
 1. Lyu ZT, ZC Zeng, H Wan, **Q Li**, A Tominaga, K Nishikawa, M. Matsui, SZ Li,  ZWJiang, Y. Liu`*`, YY  Wang`*`. 2024. Contrasting nidification behaviors facilitate diversification and colonization of the Music frogs under a changing paleoclimate. Communications Biology, 7(1): 638.
 1. **Li Q**, D Chen, & S Wang`*`. 2023. Character displacement of egg colors during tinamou speciation. Evolution, 77(8): 1874–1881. [Link](https://doi.org/10.1093/evolut/qpad085)
 1. **Li Q**`*`, J Wang, R Fuller, Y Xing, J Liu, & RH Ree`*`. 2022. Evidence for divergence in phenology over morphology in response to limiting similarity in montane communities of *Rhododendron*. Journal of Ecology, 110(12): 2960-2970. [Link](https://doi.org/10.1111/1365-2745.14002)
@@ -30,11 +31,12 @@ Peer-reviewed Publications
 7. Kou X`*`, **Q Li**, & S Liu. 2011. High-resolution bioclimatic dataset derived from future climate projections for plant species distribution modeling. Ecological Informatics. 6: 196-204. [Link](https://doi.org/10.1016/j.ecoinf.2011.01.004)
 
 **Manuscripts under review/revision** (available upon request)
+1. **Li Q**, Hu, K., Wang, J., Fuller, R., Lu, J-Y, Wang, H., Liu, J., Ree, RH, Kou X*. Genome-wide signatures and ecological strategies show the adaptation of an alpine *Rhododendron* along elevation.
 1. **Li Q** & AL Angert. The diversification and evolution of niche breadth across spatial scales in western North American monkeyflowers.
 
 **Manuscripts in preparation**
-1. **Li Q** & RH Ree. Genomic structure and local adaptation of an alpine *Rhododendron*.
-
+1. Shen, Q-N, He, N., Kang, Y-L, Ma, Y-Z, Lu, J-Y, Wang, F., **Li Q**. Floral evolution in a generalized pollination system of *Rhododendron*.
+2. He, N., Shen, Q-N, Sun, M-F, Wang, F., Xing, D-L, **Li Q**. Linking leaf spectra and functional traits to species divergence and adaptation of *Rhododendron* in the Hengduan Mountains.
 
 ---
 

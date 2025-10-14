@@ -38,6 +38,12 @@ Qin joined the faculty at East China Normal University (Shanghai, China) since t
 Current Graduate Students
 ------
 
+### Mufan Sun (孙慕梵)
+
+Mufan is a PhD student since the fall of 2025. Before this, he was a master student at ECNU. His current work focuses on functional biogeography and niche evolution of representative plants groups in the Hengduan Mountains.
+
+------
+
 ![](/images/Qianni-Shen.jpg){: width="200px" style="float:left; padding-right:30px"}
 {: style="clear: both"}
 
