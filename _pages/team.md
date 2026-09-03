@@ -42,6 +42,18 @@ Current Graduate Students
 
 Mufan is a PhD student since the fall of 2025. Before this, he was a master student at ECNU. His current work focuses on functional biogeography and niche evolution of representative plants groups in the Hengduan Mountains.
 
+### Xinru Zhang (张欣茹)
+
+Incoming PhD student
+
+### Xinying Ruan (阮欣颖)
+
+Incoming master student
+
+
+------
+
+Past Graduate Students
 ------
 
 ![](/images/Qianni-Shen.jpg){: width="200px" style="float:left; padding-right:30px"}
