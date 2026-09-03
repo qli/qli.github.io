@@ -27,7 +27,6 @@ Selected Publications
 - **Li Q**`*`, D Grossenbacher, AL Angert. 2018. The effect of range overlap on ecological niche divergence depends on spatial scale in monkeyflowers. Evolution, 72(10): 2100-2113. [Link](https://doi.org/10.1111/evo.13567)
 - **Li Q**, X Kou`*`, C Beierkuhnlein, S Liu, & J Ge. 2018. Global patterns of non‐analogous climates in the past and future derived from thermal and hydraulic factors. Global Change Biology, 24(6): 2463-2475. [Link](https://doi.org/10.1111/gcb.14104)
 - Lee-Yaw JA`*`, ..., **Q Li**, R Schuster, AL Angert. 2016. A synthesis of transplant experiments and ecological niche models suggests that range limits are often niche limits. Ecology Letters, 19(6): 710-722. [Link](https://doi.org/10.1111/ele.12604)
-- Kou X, **Q Li**, C Beierkuhnlein, Y Zhao, S Liu`*`. 2014. A new tool for exploring climate change induced range shifts of conifer species in China. PLoS ONE, 9(9): e98643. [Link](https://doi.org/10.1371/journal.pone.0098643)
 - **Li Q**, J Wu, X Kou`*`, L Feng. 2013. Applications of camera trap in wildlife population ecology. China Journal of Applied Ecology. 24(4): 947-955 (in Chinese). [Link](http://www.cjae.net/CN/Y2013/V24/I4/947)
 
 
@@ -36,4 +35,4 @@ Selected Publications
 Editorials
 ------
 - Williams, JW, A Taylor, KA Tolley, DB Provete, R Correia, TB Guedes, H Farooq, **Q Li**, HT Pinheiro, AV Liz, LW Luna. 2023. Shifts to open access with high article processing charges hinder research equity and careers. Journal of Biogeography, 50(9): 1485-1489.
-- Dawson MN, RA Correia, **Q Li**, TJ Matthews, AF Palmeirim. 2023. Journal of biogeography innovation awards. Journal of Biogeography, 50(1):41-2.
+- Dawson MN, RA Correia, **Q Li**, TJ Matthews, AF Palmeirim. 2023. Journal of Biogeography Innovation Awards. Journal of Biogeography, 50(1):41-2.
