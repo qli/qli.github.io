@@ -9,6 +9,15 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Teaching"
+    url: /files/eco_stats/index.html
+    children:
+      - title: "ggplot2 基础"
+        url: /files/eco_stats/Rlab_04_graphics_1_ggplot2.html
+      - title: "ggplot2 做图实操"
+        url: /files/eco_stats/Rlab_04_graphics_2_practice.html
+    
+
   - title: "Galleries"
     url: /galleries/
 
