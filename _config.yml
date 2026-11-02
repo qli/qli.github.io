@@ -121,7 +121,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
+  - teaching_docs
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
